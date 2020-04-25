@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<!--
+    <Button
+        android:id="@+id/tier0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:onClick="openListActivity"
+        android:text="God Tier"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/tier05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:onClick="openListActivity"
+        android:text="Tier 0.5"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/tier1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:onClick="openListActivity"
+        android:text="Tier 1"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/tier15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:onClick="openListActivity"
+        android:text="Tier 1.5"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/tier2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:onClick="openListActivity"
+        android:text="Tier 2"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/tier25"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:onClick="openListActivity"
+        android:text="Tier 2.5"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/tier3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:onClick="openListActivity"
+        android:text="Tier 3"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/tier4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:onClick="openListActivity"
+        android:text="Tier 4"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/tier5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:onClick="openListActivity"
+        android:text="Tier 5"
+        android:textSize="20sp" />
+-->
+</LinearLayout>
